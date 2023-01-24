@@ -1,4 +1,4 @@
-# Readme Generator
+# Team Profile Generator
   
   ![badge](https://img.shields.io/badge/license-Open-brightgreen)
   ## Description
